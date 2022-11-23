@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Sample Product management react app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
